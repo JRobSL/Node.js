@@ -13,6 +13,3 @@ module.exports = {
     getClima
 }
 
-
-
-//npm app --lat 37.392529 --lon -5.994072
